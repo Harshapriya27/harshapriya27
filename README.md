@@ -38,8 +38,10 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshapriya-korishettar)(https://www.linkedin.com/in/harshapriya-korishettar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hdkorishettar@gmail.com)(hdkorishettar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshapriya-korishettar)
+(https://www.linkedin.com/in/harshapriya-korishettar/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hdkorishettar@gmail.com)
+(hdkorishettar@gmail.com)
 
 
 
