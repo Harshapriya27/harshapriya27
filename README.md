@@ -22,26 +22,24 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 ## 📌 Featured Projects
 
-- 🛒 [E-Commerce Platform (Java + Spring Boot + MySQL)](https://github.com/Harshapriya27/ecommerce-platform-springboot)  
+- 🛒 [E-Commerce Platform (Java + Spring Boot + MySQL)]([https://github.com/Harshapriya27/ecommerce-platform-springboot](https://github.com/Harshapriya27/E-Store-Website))  
   A full-stack application with user login, cart system, product management, and payment simulation.
 
-- ✅ [Task Manager Web App (React + Spring Boot)](https://github.com/Harshapriya27/task-manager-app)  
+- ✅ [Task Manager Web App (React + Spring Boot)]([https://github.com/Harshapriya27/task-manager-app](https://github.com/Harshapriya27/Task-Manager-Web-App/tree/master))  
   CRUD-based task management with priorities, due dates, and filtering features.
 
-- 🌍 [Travel Website Frontend (React.js)](https://github.com/Harshapriya27/travel-website-frontend)  
+- 🌍 [Travel Website Frontend (React.js)]([https://github.com/Harshapriya27/travel-website-frontend](https://github.com/Harshapriya27/Travel-Website))  
   Responsive multi-page site showcasing travel destinations and booking prompts.
 
-- 🧩 [Crownpeak CMS Components (C#)](https://github.com/Harshapriya27/crownpeak-components)  
+- 🧩 [Crownpeak CMS Components (C#)] (Inside CMS platform)
   Modular CMS components following Crownpeak conventions for reusable content delivery.
 
 
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshapriya-korishettar)
-(https://www.linkedin.com/in/harshapriya-korishettar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/harshapriya-korishettar](https://www.linkedin.com/in/harshapriya-korishettar/))
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hdkorishettar@gmail.com)
-(hdkorishettar@gmail.com)
 
 
 
