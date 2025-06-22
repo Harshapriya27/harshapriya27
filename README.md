@@ -22,7 +22,7 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 ## 📌 Featured Projects
 
-- 🛒 [E-Commerce Platform (Java + Spring Boot + MySQL)]([https://github.com/Harshapriya27/ecommerce-platform-springboot](https://github.com/Harshapriya27/E-Store-Website)
+- 🛒 [E-Commerce Platform (Java + Spring Boot + MySQL)](https://github.com/Harshapriya27/E-Store-Website)
   A full-stack application with user login, cart system, product management, and payment simulation.
 
 - ✅ [Task Manager Web App (React + Spring Boot)]([https://github.com/Harshapriya27/task-manager-app](https://github.com/Harshapriya27/Task-Manager-Web-App/tree/master)
