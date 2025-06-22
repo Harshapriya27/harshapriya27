@@ -22,13 +22,13 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 ## 📌 Featured Projects
 
-- 🛒 [E-Commerce Platform (Java + Spring Boot + MySQL)]([https://github.com/Harshapriya27/ecommerce-platform-springboot](https://github.com/Harshapriya27/E-Store-Website))  
+- 🛒 [E-Commerce Platform (Java + Spring Boot + MySQL)]([https://github.com/Harshapriya27/ecommerce-platform-springboot](https://github.com/Harshapriya27/E-Store-Website)
   A full-stack application with user login, cart system, product management, and payment simulation.
 
-- ✅ [Task Manager Web App (React + Spring Boot)]([https://github.com/Harshapriya27/task-manager-app](https://github.com/Harshapriya27/Task-Manager-Web-App/tree/master))  
+- ✅ [Task Manager Web App (React + Spring Boot)]([https://github.com/Harshapriya27/task-manager-app](https://github.com/Harshapriya27/Task-Manager-Web-App/tree/master)
   CRUD-based task management with priorities, due dates, and filtering features.
 
-- 🌍 [Travel Website Frontend (React.js)]([https://github.com/Harshapriya27/travel-website-frontend](https://github.com/Harshapriya27/Travel-Website))  
+- 🌍 [Travel Website Frontend (React.js)]([https://github.com/Harshapriya27/travel-website-frontend](https://github.com/Harshapriya27/Travel-Website)
   Responsive multi-page site showcasing travel destinations and booking prompts.
 
 - 🧩 [Crownpeak CMS Components (C#)] (Inside CMS platform)
