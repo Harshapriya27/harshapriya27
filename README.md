@@ -4,7 +4,6 @@
 
 I'm a passionate developer with over 1 year of hands-on experience in building scalable web applications and CMS components. I specialize in Java backend development and love crafting interactive UIs with React.js. I'm currently working on reusable Crownpeak CMS components and deepening my skills in full stack development.
 
----
 
 ### 🚀 Tech Stack & Tools
 
@@ -18,7 +17,6 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Crownpeak](https://img.shields.io/badge/CMS-Crownpeak-blue?style=for-the-badge)
 
----
 
 ### 📌 Featured Projects
 
@@ -34,21 +32,18 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 - 🧩 [Crownpeak CMS Components (C#)](https://github.com/Harshapriya27/crownpeak-components)  
   Modular CMS components following Crownpeak conventions for reusable content delivery.
 
----
 
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshapriya-korishettar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hdkorishettar@gmail.com)
 
----
 
 ### 📈 GitHub Stats
 
 ![Harshapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshapriya27&show_icons=true&theme=react&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshapriya27&layout=compact&theme=react&hide_border=true)
 
----
 
 ### 💼 Career Interests
 
@@ -58,7 +53,6 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 - Frontend Developer (React)  
 - CMS Developer (Crownpeak)
 
----
 
 ### 🙌 Thanks for visiting my profile!
 
