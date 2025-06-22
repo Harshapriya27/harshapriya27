@@ -6,7 +6,7 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 
 
-### 🚀 Tech Stack & Tools
+## 🚀 Tech Stack & Tools
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -20,7 +20,7 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
 - 🛒 [E-Commerce Platform (Java + Spring Boot + MySQL)](https://github.com/Harshapriya27/ecommerce-platform-springboot)  
   A full-stack application with user login, cart system, product management, and payment simulation.
@@ -36,21 +36,21 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshapriya-korishettar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hdkorishettar@gmail.com)
 
 
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 ![Harshapriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshapriya27&show_icons=true&theme=react&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshapriya27&layout=compact&theme=react&hide_border=true)
 
 
 
-### 💼 Career Interests
+## 💼 Career Interests
 
 🚀 Open to Full-Time Roles as:
 - Java Developer  
@@ -60,6 +60,6 @@ I'm a passionate developer with over 1 year of hands-on experience in building s
 
 
 
-### 🙌 Thanks for visiting my profile!
+## 🙌 Thanks for visiting my profile!
 
 Let's build something amazing together 🚀
